@@ -4,7 +4,7 @@ Project
 
 ##comands
 add file into signing area
-'''git add <file name>'''
+'''git add  <file name>'''
 
 check status
 git status
